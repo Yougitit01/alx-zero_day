@@ -1,1 +1,1 @@
-THough this is my second readme ALXX asked me to update from Github
+Though this is my second readme ALX asked me to update from Github
